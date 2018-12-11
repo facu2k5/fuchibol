@@ -1,0 +1,24 @@
+
+.header{
+    background: green;
+    border: 1px solid #999999
+}
+.header h1{
+    text-align: left
+}
+.agrupar{
+    width: 960px;
+    border: 1px solid red
+
+}
+.menu{
+    background: #cfa005;
+    padding: 5px 15px;
+    text-align: left
+}
+.menu li { 
+    list-style: none;
+    padding: 0%;
+    FONT: bold 14px verdana;
+    display: inline-block;
+}
